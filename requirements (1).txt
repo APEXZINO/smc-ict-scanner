@@ -1,0 +1,5 @@
+websockets
+pandas
+numpy
+pytz
+requests
