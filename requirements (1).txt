@@ -1,4 +1,0 @@
-websockets
-pandas
-numpy
-pytz
